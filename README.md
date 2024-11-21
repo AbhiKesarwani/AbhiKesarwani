@@ -5,7 +5,6 @@
 - 😄 Pronouns: He/Him
 - 💡 I’m fascinated by the intersection of AI and Transportation.
 - 📚 Apart from coding, I enjoy reading about productivity and habits.
-- 
 
 <!---
 AbhiKesarwani/AbhiKesarwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
